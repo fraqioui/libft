@@ -1,6 +1,7 @@
 # libft
 > This project is about coding a C library.
 
+Look for the project's subject between repository files.
 ## Part 1 - libc functions
 This part is about Implementing the same behaviors as the original functions using their manual as a reference.
 
@@ -61,11 +62,14 @@ In this second part, you must develop a set of functions that are either not in 
 | ft_lstmap | Iterates the list ’lst’ and applies the function ’f’ on the content of each node. Creates a new list resulting of the successive applications of the function ’f’. The ’del’ function is used to delete the content of a node if needed. |
 
 # Resources
-
-
-
-
-
+* [Neso Academy](https://www.youtube.com/@nesoacademy)
+> These books are going to help you a lot to dive deeper into every programming concept in C and understand each aspect of it.
+* **BOOK_01**: An Introduction to the C Programming Language and Software Design. (look for it between repository files)
+* **BOOK_02**: The ANSI C programming language by Brian & Dennis.
+* [**BOOK_03**: Extreme C: Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C by Karman Amini](https://www.amazon.com/Extreme-Taking-Concurrency-advanced-capabilities/dp/1789343623).
+* [**BOOK_04**: Practical C Programming: Solutions for modern C developers to create efficient and well-structured programs by  B. M. Harwani ](https://www.amazon.com/Practical-Programming-Solutions-developers-well-structured/dp/1838641106)
+* [**BOOK_05**: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People by  Aditya Bhargava ](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230).
+* [**BOOK_06**: Hacking: The Art of Exploitation, 2nd Edition by  Jon Erickson ](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/ref=sr_1_1?crid=36M9GHG3QXQTM&keywords=hacking+the+art+of+exploitation&qid=1674901322&s=books&sprefix=the+art+of+explo%2Cstripbooks-intl-ship%2C262&sr=1-1)
 
 
 
